@@ -149,15 +149,15 @@
 	right: 10px;
 	bottom: 600px;
 	z-index:1;
-	height: 300px;
-	width: 500px;
+	height: 350px;
+	width: 400px;
 }
 .mobile-photo{
 	position: absolute;
-	top: -900px;
-	left: -60px;
+	top: -820px;
+	left: 30px;
 	height: 600px;
-	width: 600px;
+	width: 400px;
 	z-index: 2;
 }
 .section-1-heading{
