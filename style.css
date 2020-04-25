@@ -5,6 +5,8 @@
 .navigation-block{
 	background-color: white;
 	padding-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-bottom: 30px;
 	position: relative;
 	z-index: 4;
@@ -146,6 +148,10 @@
 	}
 	.biggest-photo{
 	position:relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
 	right: 10px;
 	bottom: 600px;
 	z-index:1;
@@ -154,8 +160,13 @@
 }
 .mobile-photo{
 	position: absolute;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
 	top: -820px;
-	left: 30px;
+	left: 15%;
+	right: auto;
 	height: 600px;
 	width: 400px;
 	z-index: 2;
